@@ -11,6 +11,8 @@ Refreshingly building is simplicity itself! just run ant in the apps/scenebuilde
 
 It’s easy enough to make your own target and paste it into your projects build file
 
+*** Secret Code Under this line ***
+
   <property name="sbpath" location="../scenebuilder/apps/scenebuilder"/>
 
   <target name="edit-gui"
